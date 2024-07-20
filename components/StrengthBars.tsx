@@ -42,7 +42,7 @@ const StrengthBars = ({ strength }: StrengthBarsProps) => {
     return (
         <div>
             <div className="flex justify-end items-center gap-4 ">
-                <div className="uppercase">
+                <div className="uppercase text-[24px] md:text-[32px]">
                     {displayText}
                 </div>
 
