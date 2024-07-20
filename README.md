@@ -57,7 +57,6 @@ Ensure you have the following installed on your machine:
 
 - [Next.js](https://nextjs.org/) - React framework for building server-rendered applications.
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for rapidly building custom user interfaces.
-- [Clipboard.js](https://clipboardjs.com/) - Library for copying text to the clipboard.
 
 ## Contributing
 
